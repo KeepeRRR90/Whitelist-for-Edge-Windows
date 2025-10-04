@@ -39,3 +39,6 @@
 @@||www.outlook.com^
 @@||licensing.mp.microsoft.com^
 @@||ntservicepack.microsoft.com^
+@@||go.microsoft.com^
+@@||validation.sls.microsoft.com^
+@@||displaycatalog.mp.microsoft.com^
