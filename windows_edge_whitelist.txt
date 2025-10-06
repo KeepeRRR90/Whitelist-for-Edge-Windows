@@ -29,14 +29,9 @@
 @@||secure.aadcdn.microsoftonline-p.com^
 @@||sharepoint.com^
 @@||signin.postman.co^
-@@||skype.com^
 @@||skypeforbusiness.com^
 @@||teams.microsoft.com^
 @@||user.auth.xboxlive.com^
-@@||www.bing.com^
-@@||www.microsoft.com^
-@@||www.office.com^
-@@||www.outlook.com^
 @@||licensing.mp.microsoft.com^
 @@||ntservicepack.microsoft.com^
 @@||go.microsoft.com^
