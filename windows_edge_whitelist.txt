@@ -1,5 +1,4 @@
 === Exceptions (whitelist) for Windows and Edge stability ===
-@@||onedrive.com^
 @@||outlook.live.com^
 @@||login.live.com^
 @@||login.microsoftonline.com^
@@ -9,7 +8,6 @@
 @@||graph.microsoft.com^
 @@||identity.microsoft.com^
 @@||msftauth.net^
-@@||onenote.com^
 @@||portal.office.com^
 @@||secure.aadcdn.microsoftonline-p.com^
 @@||sharepoint.com^
