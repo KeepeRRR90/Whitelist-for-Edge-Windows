@@ -7,10 +7,8 @@
 @@||docs.live.net^
 @@||graph.microsoft.com^
 @@||identity.microsoft.com^
-@@||msftauth.net^
 @@||portal.office.com^
 @@||secure.aadcdn.microsoftonline-p.com^
-@@||sharepoint.com^
 @@||teams.microsoft.com^
 @@||user.auth.xboxlive.com^
 @@||licensing.mp.microsoft.com^
@@ -18,3 +16,4 @@
 @@||go.microsoft.com^
 @@||validation.sls.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
+@@||msftauth.net^
